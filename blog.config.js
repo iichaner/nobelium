@@ -2,7 +2,7 @@ const BLOG = {
   title: '魂灵在野',
   author: '陈新彦Arvin',
   email: 'iichaner@outlook.com',
-  link: 'https://freesouls.vercel.app/',
+  link: 'https://freesouls.vercel.app',
   description: '在被职场规训的直男怎么在露营试着爱自己灵魂的路上找到救赎，这种感觉吧',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
